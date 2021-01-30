@@ -15,6 +15,7 @@ A CLI RPG game application where a user battles against a series of enemies whos
 # Framework
 - Javascript
 - Jest
+- Inquirer.js
 
 # Installation
 1. Clone the repository.
